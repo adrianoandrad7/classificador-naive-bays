@@ -10,7 +10,7 @@ Código:
 
 https://colab.research.google.com/drive/1dN6kzYouBeGhx8NTFglUipy8Nl-Xswl2
 
-Resultado obtidos
+Resultado obtidos:
 
 # Bernoulli
 
