@@ -1,7 +1,7 @@
 # Classificador-Naive-Bays
 Trabalho da disciplina sistemas de apoio a decisão
 
-Classificando sentimento de twitter sobre o serviço da Netflix.
+Classificando sentimento no twitter sobre o serviço da Netflix.
 
 Foi utilizado os seguintes algoritmos para achar melhor resultado.
 Gaussian, Multinomial e Bernoulli.
