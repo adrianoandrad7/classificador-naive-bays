@@ -32,6 +32,3 @@ Os resultados dos diferentes algoritmos são apresentados abaixo:
 1. Acesse o [notebook do Google Colab](https://colab.research.google.com/drive/1dN6kzYouBeGhx8NTFglUipy8Nl-Xswl2).
 2. Siga as instruções no notebook para carregar os dados e executar as células de código.
 
-## Contribuição
-
-Contribuições são bem-vindas! Se você deseja contribuir para este projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request.
