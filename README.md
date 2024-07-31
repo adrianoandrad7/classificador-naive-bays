@@ -19,15 +19,12 @@ O código-fonte do projeto está disponível em um [notebook do Google Colab](ht
 Os resultados dos diferentes algoritmos são apresentados abaixo:
 
 ### Bernoulli Naive Bayes
-![Resultado Bernoulli](image)
 ![image](https://user-images.githubusercontent.com/62573290/218146942-13172480-5b7d-4b85-973b-1e8674b58826.png)
 
 ### Gaussian Naive Bayes
-![Resultado Gaussian](image)
 ![image](https://user-images.githubusercontent.com/62573290/218147052-4856b071-bddb-4bc0-910e-b5f47afe7f56.png)
 
 ### Multinomial Naive Bayes
-![Resultado Multinomial](image)
 ![image](https://user-images.githubusercontent.com/62573290/218147262-9226a0da-f10e-4b23-bb60-0d14d2de760d.png)
 
 ## Como Executar
